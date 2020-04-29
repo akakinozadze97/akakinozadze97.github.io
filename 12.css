@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<meta charset="utf-8">
+
+		<title>Our First CSS page</title>
+
+		<style>
+
+			h1 {
+  				color:#8A5FEB;
+  				font-family: 'Arial', sans-serif;
+			 }
+
+			 body{
+			 	background-color: #43EB5B;
+			 }
+
+
+			 .green {
+			 	background-color: #C7FF7A;
+			 }
+			 #orange {
+			 	background-color: #FF524D
+
+			 }
+
+
+		</style>
+
+	</head>
+
+
+	<body>
+
+
+		<h1>First css page</h1>
+
+		<p>This is my first paragraph. </p>
+
+		<p>This is my second paragraph.</p>
+
+	</body>
+
+
+
+</html>
